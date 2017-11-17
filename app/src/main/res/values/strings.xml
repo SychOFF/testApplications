@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestApplication</string>
+    <string name="TestBtn">TestKnopka</string>
+    <string name="TestText">Hello World</string>
 </resources>
